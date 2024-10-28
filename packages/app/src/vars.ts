@@ -1,0 +1,3 @@
+const vars = {}
+
+export { vars }

@@ -1,0 +1,15 @@
+/*
+
+!.gitignore
+
+!database
+!config
+!public
+public/uploads
+!src
+
+!.env.template
+!README.md
+!favicon.ico
+!package.json
+!tsconfig.json

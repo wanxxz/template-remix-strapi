@@ -1,0 +1,10 @@
+- shadcn/ui
+- refine
+- mantine
+- tailwindcss
+- react-aria
+- react
+- lucide
+- remix
+- strapi
+- postgres

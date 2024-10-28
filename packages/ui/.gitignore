@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+
+!src
+
+!README.md
+!components.json
+!package.json
+!postcss.config.mjs
+!tailwind.config.mjs
+!tsconfig.json

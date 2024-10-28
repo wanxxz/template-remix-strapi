@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "@booth/cms",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "strapi start"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@strapi/plugin-cloud": "5.1.1",
+    "@strapi/plugin-users-permissions": "5.1.1",
+    "@strapi/strapi": "5.1.1",
+    "@types/node": "^20.17.1",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.0.7",
+    "pg": "8.8.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "styled-components": "^6.0.0",
+    "typescript": "^5",
+    "zod": "^3.23.8"
+  }
+}
